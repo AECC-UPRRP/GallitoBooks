@@ -14,6 +14,7 @@
 		0AA1FF051AFE4DA5007A1358 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA1FF041AFE4DA5007A1358 /* Images.xcassets */; };
 		0AA1FF081AFE4DA5007A1358 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0AA1FF061AFE4DA5007A1358 /* LaunchScreen.xib */; };
 		0AA1FF141AFE4DA5007A1358 /* GallitoBooksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA1FF131AFE4DA5007A1358 /* GallitoBooksTests.swift */; };
+		0AA1FF1E1AFE4F2F007A1358 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA1FF1D1AFE4F2F007A1358 /* ListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		0AA1FF0D1AFE4DA5007A1358 /* GallitoBooksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GallitoBooksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AA1FF121AFE4DA5007A1358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AA1FF131AFE4DA5007A1358 /* GallitoBooksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GallitoBooksTests.swift; sourceTree = "<group>"; };
+		0AA1FF1D1AFE4F2F007A1358 /* ListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				0AA1FEFA1AFE4DA5007A1358 /* AppDelegate.swift */,
 				0AA1FEFF1AFE4DA5007A1358 /* ViewController.swift */,
+				0AA1FF1D1AFE4F2F007A1358 /* ListTableViewController.swift */,
 				0AA1FF011AFE4DA5007A1358 /* Main.storyboard */,
 				0AA1FF041AFE4DA5007A1358 /* Images.xcassets */,
 				0AA1FF061AFE4DA5007A1358 /* LaunchScreen.xib */,
@@ -218,6 +221,7 @@
 				0AA1FF001AFE4DA5007A1358 /* ViewController.swift in Sources */,
 				0AA1FEFB1AFE4DA5007A1358 /* AppDelegate.swift in Sources */,
 				0AA1FEFE1AFE4DA5007A1358 /* GallitoBooks.xcdatamodeld in Sources */,
+				0AA1FF1E1AFE4F2F007A1358 /* ListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
